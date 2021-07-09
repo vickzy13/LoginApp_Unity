@@ -1,23 +1,33 @@
-/vendor/
-node_modules/
-npm-debug.log
-yarn-error.log
+# =============== #
+# Unity generated #
+# =============== #
+Freelance_Bell_Imersive/Temp/
+Freelance_Bell_Imersive/Library/
+Freelance_Bell_Imersive/ProjectSettings/
+Freelance_Bell_Imersive/.vs/
 
-# Laravel 4 specific
-bootstrap/compiled.php
-app/storage/
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+Freelance_Bell_Imersive/ExportedObj/
+Freelance_Bell_Imersive/obj/
+*.svd
+*.userprefs
+/*.csproj
+*.pidb
+*.suo
+/*.sln
+*.user
+*.unityproj
+*.booproj
 
-# Laravel 5 & Lumen specific
-public/storage
-public/hot
-
-# Laravel 5 & Lumen specific with changed public path
-public_html/storage
-public_html/hot
-
-storage/*.key
-.env
-Homestead.yaml
-Homestead.json
-/.vagrant
-.phpunit.result.cache
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
